@@ -20,25 +20,19 @@ Welcome to my GitHub profile!
 ## Projects
 Here are a few notable projects I've worked on:
 
-- **Southwind**: [Brief description of the project.](https://play.google.com/store/apps/details?id=com.root.southwind&hl=en)
+- **[Southwind](https://play.google.com/store/apps/details?id=com.root.southwind&hl=en)**
 
-- **[Project Name](link)**: Brief description of the project.
+- **[TiTOPi](https://play.google.com/store/apps/details?id=com.titopi.customer&hl=en)**
 
-- **[Project Name](link)**: Brief description of the project.
+- **[Karis E-Commerce Services](https://play.google.com/store/apps/developer?id=Karis+E-Commerce+Services&hl=en)**
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- Website: [Your Website](https://yourwebsite.com)
-
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-## Languages and Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+- LinkedIn: [Tasvir Limbani](https://in.linkedin.com/in/tasvir-limbani-16b4a91a4)
+- Instagram: [@tasvir_limbani_](https://www.instagram.com/tasvir_limbani_)
+- Website: [tasvirlimbani.github.io](https://tasvirlimbani.github.io/tasvirlimbani/)
 
 ## Support
-If you find my projects helpful or have any questions, feel free to reach out. You can contact me via [email](mailto:your.email@example.com).
+If you find my projects helpful or have any questions, feel free to reach out. You can contact me via [email](mailto:tasvirlimbani111@gmail.com).
 
 ---
 
